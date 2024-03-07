@@ -1,5 +1,6 @@
 # working-with-wx
 This Python code creates a GUI login window using wxPython library, prompting user to enter username and password, checks if credentials match, and terminates the application.
+
 ## Table of Contents
 
 - [About](#about)
