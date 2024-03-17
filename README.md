@@ -6,7 +6,7 @@ This Python code creates a GUI login window using wxPython library, prompting us
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Rating: 6/10](#Rating)
 
 # About
 
